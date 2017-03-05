@@ -1,0 +1,15 @@
+Scraping the Surface
+barracks
+
+Saleh 1
+Colm 5
+
+"Saleh What exactly is going on here?
+"Saleh They were after me! But I'm not sure why...
+>Colm 4
+"Colm I think I may have some answers.
+>Saleh 2
+"Saleh What?
+"Saleh Who are you?
+>Colm 3
+"Colm My name is Colm.

@@ -1,0 +1,6 @@
+Humble Beginnings
+map 1.txt
+Colm -3 2
+Saleh -4 3
+
+Bandit 1 0 FIGHTER 1 Colm
